@@ -1,0 +1,1 @@
+ALTER TYPE "public"."quota_scope" ADD VALUE 'best_platform';

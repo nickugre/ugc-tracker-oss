@@ -1,0 +1,1 @@
+ALTER TYPE "public"."lock_method" ADD VALUE 'first_after';
